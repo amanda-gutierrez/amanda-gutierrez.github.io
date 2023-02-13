@@ -1,0 +1,22 @@
+body {
+  background-color: #51557E;
+}
+h1 {
+  color: #1B2430;
+}
+h3 {
+  color: #1B2430;
+}
+a:link {
+  color: #8e94cc;
+}
+a:visited {
+  color: #ae87cf;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  height: 0px;
+  width: 10%;
+  border-color: #141b24;
+}
