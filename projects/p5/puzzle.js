@@ -2,7 +2,7 @@
 
 let puzzleSketch = function(p){
     let img;
-    p.onload = function(){
+    p.preload = function(){
         img = p.loadImage('images/redTrees.jpg');
     } 
     const canvasSize = 500;
